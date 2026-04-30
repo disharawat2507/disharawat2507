@@ -5,7 +5,7 @@
 - 🔭 I’m currently engineering a Distributed Professional Networking Platform (LinkedIn-scale) focusing on complex relationship mapping and real-time feed optimization.
 - 💻 Former **Senior Software Engineer** with experience in **Apex** and **Python**.
 - 🎯 Seeking **2026 Summer Internships** in Software/Data Engineering.
-- ⚡ Fun fact: I enjoy indoor gardening and taking care of my money plants!
+- ⚡ Fun fact: I enjoy drawing and taking care of my money plant!
 
 ---
 
